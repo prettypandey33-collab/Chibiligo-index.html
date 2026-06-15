@@ -1,0 +1,6 @@
+{
+  "name": "ChibiLingo",
+  "description": "Learn Korean, Japanese, Chinese & Thai with cute anime characters! Play interactive quizzes, track streaks, and earn adorable achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
